@@ -18,4 +18,5 @@ $ docker run -d -p 80:80 /apache /usr/sbin/httpd -DFOREGROUND
 
 Open web browser - localhost:80
 
+<h3>Follow the same steps for other Dockerfiles as well   <h3>
 

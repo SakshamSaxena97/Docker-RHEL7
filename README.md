@@ -9,7 +9,7 @@ Repository contains Dockerfile to build various container images based on Redhat
  $ yum install docker-engine
  
  $ systemctl restart docker
- 
+
 # Apache Dockerfile
 
 $ docker build -t /apache

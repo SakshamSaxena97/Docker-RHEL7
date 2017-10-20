@@ -14,7 +14,7 @@ Repository contains Dockerfile to build various container images based on Redhat
 
 $ docker build -t /apache
 
-$ docker run -d -p 80:80 /apache /usr/sbin/httpd -DFOREGROUND
+$ docker run -d -p 80:80 apache /usr/sbin/httpd -DFOREGROUND
 
 Open web browser - localhost:80
 
